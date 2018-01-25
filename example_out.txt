@@ -1,0 +1,3 @@
+123;.abc:examplefortextsomeisThere
+
+The most frequent double char connection is 'ex': frequency = 2
